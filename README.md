@@ -1,4 +1,5 @@
 # Chat-With-Csharp 
+실행영상 https://youtu.be/UVZ0Piq_QP4
 ---
 ## 포트폴리오 목차 
 > ###   1. C# 채팅 서버  -- 현재 열람 중
